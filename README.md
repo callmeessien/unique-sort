@@ -119,7 +119,7 @@ Output: (empty)
 
 ```bash
 git clone https://github.com/callmeessien/unique-sort.git
-cd UniqueSort
+cd unique-sort
 dotnet run
 ```
 
@@ -163,3 +163,4 @@ This approach keeps testing self-contained and runnable without any external dep
 - Input validation and error handling with `FormatException`
 
 - Writing a basic manual test runner without a framework
+
