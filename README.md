@@ -118,7 +118,7 @@ Output: (empty)
 **Requirements:** .NET 6 or later
 
 ```bash
-git clone https://github.com/your-username/UniqueSort.git
+git clone https://github.com/callmeessien/unique-sort.git
 cd UniqueSort
 dotnet run
 ```
@@ -161,4 +161,5 @@ This approach keeps testing self-contained and runnable without any external dep
 - Implementing merge sort manually, including the recursive split and merge steps
 - Using `HashSet` for O(n) duplicate removal
 - Input validation and error handling with `FormatException`
+
 - Writing a basic manual test runner without a framework
